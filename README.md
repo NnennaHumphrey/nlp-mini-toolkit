@@ -40,11 +40,15 @@ print(result)
 
 ------------------------------------------------------------------------
 
-## Structure
+## Project Structure
 
-    ├── README.md
-    └── flan_t5_nlp_demo.py
+```text
+├── .venv/                  
+├── pretrained LLM.ipynb    
+└── README.md               
+```
+
+
 
 ------------------------------------------------------------------------
 
-MIT License.
